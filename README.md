@@ -6,4 +6,4 @@ SWC repo for HLT NLP.
 2. Github
 3. Atmospher cloud computing   
 -Atmo is great!
-4. Python ad Jupytre notebooks.
+4. Python ad Jupyter notebooks.
